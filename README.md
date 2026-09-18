@@ -11,6 +11,11 @@
 - [Rust](https://github.com/Evgeny65ok/pipelines-rust)
 - [PHP + MySQL](https://github.com/Evgeny65ok/pipelines-php)
 
+## Java + Maven + Docker
+
+- [hello-java](https://github.com/Evgeny65ok/hello-java) — Java, Maven, JUnit 5, multi-stage Docker, CI
+
+
 ## Статусы пайплайнов
 
 ![NodeJS](https://github.com/Evgeny65ok/pipelines-nodejs/actions/workflows/ci.yml/badge.svg)
@@ -19,3 +24,4 @@
 ![C++](https://github.com/Evgeny65ok/pipelines-cpp/actions/workflows/ci.yml/badge.svg)
 ![Rust](https://github.com/Evgeny65ok/pipelines-rust/actions/workflows/ci.yml/badge.svg)
 ![PHP](https://github.com/Evgeny65ok/pipelines-php/actions/workflows/ci.yml/badge.svg)
+![Java](https://github.com/Evgeny65ok/hello-java/actions/workflows/ci.yml/badge.svg)
