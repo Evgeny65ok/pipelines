@@ -47,7 +47,7 @@
 | Python | flake8 | pytest | ✅ |
 | Go | go vet | go test | ✅ |
 | C++ | clang-format | Google Test | ✅ |
-| Rust (утилита) | clippy + fmt | cargo test | ❌ |
+| Rust (утилита) | clippy + fmt | cargo test | ✅ |
 | PHP | php -l | PHPUnit | ✅ |
 | Java | Maven | JUnit 5 | ✅ |
 | Rust (CI #1) | clippy + fmt | cargo test | ✅ |
